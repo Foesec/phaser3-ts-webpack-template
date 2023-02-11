@@ -26,7 +26,7 @@
     "webpack": "^4.41.5",
     "webpack-cli": "^3.3.10",
     "webpack-dev-server": "^3.10.1",
-    "xo": "^0.25.3"
+    "xo": "^0.53.1"
   },
   "dependencies": {
     "phaser": "^3.21.0"
